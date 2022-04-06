@@ -1,2 +1,2 @@
 # Visualize using Tableau
-- retention.sql: https://bitly.com.vn/1pcsbz
+- retention.sql: https://tinyurl.com/2d9hme9p
