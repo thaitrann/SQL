@@ -87,5 +87,5 @@ create table retention_rate(
 	retention_rate float
 )
 
---- visualize: tableau (https://bitly.com.vn/1pcsbz)
+--- visualize: tableau (https://tinyurl.com/2p8uff8e)
 
