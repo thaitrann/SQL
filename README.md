@@ -1,6 +1,6 @@
 # Dashboard Data E-commerce
 - Insert and transform data: https://tinyurl.com/sks48ab4
-- Dashboard Data E-commerce: https://tinyurl.com/7mrrt4kz
+- Power BI Dashboard: https://tinyurl.com/2et3zv88
 # Visualize Using Tableau
 - retention.sql: https://tinyurl.com/2d9hme9p
 # Problem
